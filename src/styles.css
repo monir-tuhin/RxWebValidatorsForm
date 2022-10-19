@@ -1,0 +1,13 @@
+input.ng-invalid{
+    border-color:#DA5235;
+  }
+
+ select.ng-invalid{
+    background-color:#DA5235;
+    color:white;
+  }
+  
+  .fade.show {
+    opacity: 1;
+}
+
